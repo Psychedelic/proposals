@@ -31,7 +31,7 @@ Once your proposal has been discussed, and the technical details have been narro
 To submit a proposal, you must add a **markdown file** on the `open-proposals` folder in this repository that explains the proposal in detail. The markdown file must:
 
 - Have a simple file name that represents the proposal.
-- Follow the proposal template at the bare minimum (extra sections/details can be included if deemed necessary).
+- Follow the **[proposal template](https://github.com/PsychedelicDAO/project-proposals/blob/main/open-proposals/template.md)** at the bare minimum (extra sections/details can be included if deemed necessary).
 - Include a link to an open discussion/issue, as simple proof of prior discussion.
 
 ### 3. Review Process
