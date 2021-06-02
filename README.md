@@ -21,7 +21,7 @@ The process to open a new proposal has **three steps:**
 ### 1. Open a New Discussion
 To make a new project proposal **open a new Discussion first as an Issue on the repository** to make sure it is discussed with the community and quick fixes / modifications can be caught early on to deliver a clean proposal for reviewing.
 
-You can follow the basic Discussion template to know what information needs to be included.
+You can follow the basic [Discussion template](https://github.com/PsychedelicDAO/project-proposals/issues/1) to know what information needs to be included.
 
 ### 2. Submit your Proposal to 'Open Proposals'
 
