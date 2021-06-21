@@ -1,7 +1,7 @@
 # Submit Proposals
 As a collective of developers and entrepreneurs, Psychedelic was born with the purpose of pushing the Internet Computer ecosystem forward, helping new projects, Open Internet Services, platforms, tools, and standards that would benefit the network grow and be developed.
 
-## What type of projects are welcomed?
+## What type of projects are welcome?
 
 As stated above, Psychedelic is focused on helping to develop key **Open Internet Services** to the Internet Computer (open protocols and services), as well as any standard, tool, or interface that helps grow the IC ecosystem, improves its experience, or benefits users.
 
