@@ -1,5 +1,5 @@
 # Submit Proposals
-As a collective of developers and entrepreneurs, Psychedelic was born with the purpose of pushing the Internet Computer ecosystem forward, helping new projects, Open Internet Services, platforms, tools, and standards that would benefit the network grow and be developed.
+As a decentralized venture studio, Psychedelic was born with the purpose of pushing the Internet Computer ecosystem forward, helping new projects, Open Internet Services, platforms, tools, and standards that would benefit the network grow and be developed.
 
 ## What type of projects are welcome?
 
